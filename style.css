@@ -1,0 +1,17 @@
+/* Tablet */
+@media screen and (max-width: 992px) {
+    .hero h1 {
+        font-size: 32px;
+    }
+}
+
+/* Mobile */
+@media screen and (max-width: 576px) {
+    .hero h1 {
+        font-size: 26px;
+    }
+
+    .sidebar {
+        margin-top: 20px;
+    }
+}
